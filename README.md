@@ -39,6 +39,11 @@ When you compile and generate smart contract artifacts, your frontend component 
 
 The frontend starter also provides an example of interactions with your AidwaveClient in [`AppCalls.tsx`](projects/aidWave-frontend/src/components/AppCalls.tsx) component by default.
 
-## Next Steps
+
+## Next Steps<img width="3827" height="1927" alt="Screenshot from 2026-03-29 12-10-05" src="https://github.com/user-attachments/assets/d5b9fe03-2bd3-4bf0-abd5-baab7deedeab" />
+<img width="3827" height="1927" alt="Screenshot from 2026-03-29 12-09-59" src="https://github.com/user-attachments/assets/23ed97d5-79a3-477c-870a-fb42f844289f" />
+<img width="3827" height="1927" alt="Screenshot from 2026-03-29 12-06-27" src="https://github.com/user-attachments/assets/d9bb554d-16b3-41a5-baf7-f32268ea8765" />
+<img width="3827" height="1927" alt="Screenshot from 2026-03-29 12-05-31" src="https://github.com/user-attachments/assets/f8206602-5abc-4d6c-9bd4-923d01f98610" />
+
 
 You can take this project and customize it to build your own decentralized applications on Algorand. Make sure to understand how to use AlgoKit and how to write smart contracts for Algorand before you start.
