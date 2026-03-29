@@ -1,0 +1,74 @@
+{
+  "name": "AidWave",
+  "desc": "",
+  "methods": [
+    {
+      "name": "createApplication",
+      "args": [
+        {
+          "name": "proposal",
+          "type": "string"
+        }
+      ],
+      "returns": {
+        "type": "void"
+      }
+    },
+    {
+      "name": "bootstrap",
+      "args": [],
+      "returns": {
+        "type": "uint64"
+      }
+    },
+    {
+      "name": "register",
+      "args": [
+        {
+          "name": "registeredASA",
+          "type": "uint64"
+        }
+      ],
+      "returns": {
+        "type": "void"
+      }
+    },
+    {
+      "name": "vote",
+      "args": [
+        {
+          "name": "inFavor",
+          "type": "bool"
+        },
+        {
+          "name": "registeredASA",
+          "type": "uint64"
+        }
+      ],
+      "returns": {
+        "type": "void"
+      }
+    },
+    {
+      "name": "getProposal",
+      "args": [],
+      "returns": {
+        "type": "string"
+      }
+    },
+    {
+      "name": "getRegisteredASA",
+      "args": [],
+      "returns": {
+        "type": "uint64"
+      }
+    },
+    {
+      "name": "getVotes",
+      "args": [],
+      "returns": {
+        "type": "(uint64,uint64)"
+      }
+    }
+  ]
+}
